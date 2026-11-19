@@ -1,0 +1,43 @@
+{
+  "site_name": "SportActu FR",
+  "tagline": "Actu sportive, résultats et événements en France, mis à jour automatiquement",
+  "base_url": "https://VOTRE-PSEUDO.github.io/VOTRE-DEPOT",
+  "language": "fr",
+  "contact_email": "contact@exemple.fr",
+  "publisher_name": "Votre nom ou pseudo",
+  "max_items_home": 60,
+  "max_items_history": 400,
+  "excerpt_chars": 200,
+  "adsense_publisher_id": "",
+  "ai_digest": {
+    "enabled": false,
+    "model": "claude-haiku-5-5",
+    "note": "Génère 'Le point sport du jour' (tendances, matchs et événements marquants à partir des titres). Nécessite ANTHROPIC_API_KEY."
+  },
+  "feeds": [
+    {
+      "name": "L'Équipe",
+      "url": "https://www.lequipe.fr/rss/actu_rss.xml"
+    },
+    {
+      "name": "franceinfo Sports",
+      "url": "https://www.francetvinfo.fr/sports.rss"
+    },
+    {
+      "name": "Le Figaro Sport",
+      "url": "https://www.lefigaro.fr/rss/figaro_sport.xml"
+    },
+    {
+      "name": "RMC Sport",
+      "url": "https://rmcsport.bfmtv.com/rss/fil-sport/"
+    },
+    {
+      "name": "Eurosport",
+      "url": "https://www.eurosport.fr/rss.xml"
+    },
+    {
+      "name": "Sports.fr",
+      "url": "https://www.sports.fr/feed/"
+    }
+  ]
+}
