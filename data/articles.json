@@ -1,5 +1,47 @@
 [
  {
+  "title": "Ligue 1 : en tête du classement des buteurs, Sinayoko élu joueur du mois du championnat",
+  "link": "https://www.lefigaro.fr/sports/football/ligue-1/ligue-1-en-tete-du-classement-des-buteurs-sinayoko-elu-joueur-du-mois-du-championnat-20261120",
+  "excerpt": "Avec 42 % des suffrages, Lassine Sinayoko a été élu joueur du mois d’octobre en Ligue 1.",
+  "date": "2026-11-20T23:39:32+01:00",
+  "source": "Le Figaro Sport"
+ },
+ {
+  "title": "Ligue 2 : le match Red Star-Pau interrompu après une panne d’éclairage, le stade Bauer plongé dans le noir",
+  "link": "https://www.lefigaro.fr/sports/football/ligue-2-le-match-red-star-pau-interrompu-apres-une-panne-d-eclairage-le-stade-bauer-plonge-dans-le-noir-20261120",
+  "excerpt": "Une panne d’éclairage a interrompu pendant une vingtaine de minutes la rencontre entre le Red Star et Pau, ce vendredi soir. Les Audoniens se sont finalement imposés (2-1).",
+  "date": "2026-11-20T23:38:53+01:00",
+  "source": "Le Figaro Sport"
+ },
+ {
+  "title": "Bundesliga : avant Lille-Bayern, Harry Kane gravement touché et inquiétude pour Michael Olise",
+  "link": "https://www.lefigaro.fr/sports/football/allemagne/bundesliga-avant-lille-bayern-le-ballon-d-or-harry-kane-sort-sur-blessure-20261120",
+  "excerpt": "L’attaquant international anglais (127 sélections, 93 buts) et le meneur international tricolore (31 sél., 12 buts) ont été touchés ce vendredi, à l’Allianz Arena, contre Cologne.",
+  "date": "2026-11-20T23:37:14+01:00",
+  "source": "Le Figaro Sport"
+ },
+ {
+  "title": "Bundesliga : nul contre Cologne, Kane et Olise touchés… La sale soirée du Bayern",
+  "link": "https://www.lefigaro.fr/sports/football/allemagne/bundesliga-nul-contre-cologne-kane-et-olise-touches-la-sale-soiree-du-bayern-20261120",
+  "excerpt": "Les champions d’Allemagne ont concédé le nul face à Cologne ce vendredi, lors de la 10e journée. Ils ont aussi et surtout perdu deux cadres offensifs sur blessure…",
+  "date": "2026-11-20T23:35:50+01:00",
+  "source": "Le Figaro Sport"
+ },
+ {
+  "title": "Ligue 1 : Tanguy Nianzou, le pari gagnant du Losc après des années de galère",
+  "link": "https://www.lefigaro.fr/sports/football/ligue-1/ligue-1-tanguy-nianzou-le-pari-gagnang-du-losc-apres-des-annees-de-blessures-20261120",
+  "excerpt": "Longtemps freiné par les blessures, au Bayern Munich puis au FC Séville, l’ancien Parisien retrouve enfin de la continuité sous les couleurs lilloises.",
+  "date": "2026-11-20T23:05:00+01:00",
+  "source": "Le Figaro Sport"
+ },
+ {
+  "title": "Ligue 2 : Nancy à hauteur des Verts, Guingamp déçoit encore",
+  "link": "https://www.lefigaro.fr/sports/football/ligue-2-nancy-a-hauteur-des-verts-guingamp-decoit-encore-20261120",
+  "excerpt": "Annecy, Rodez, Metz et Nancy l’ont emporté ce vendredi, lors de la première partie de la 13e journée de Ligue 2.",
+  "date": "2026-11-20T22:53:07+01:00",
+  "source": "Le Figaro Sport"
+ },
+ {
   "title": "Ligue 1 : le match de la peur pour Troyes, le cauchemar continue pour Le Havre",
   "link": "https://www.lefigaro.fr/sports/football/ligue-1/ligue-1-le-match-de-la-peur-pour-troyes-le-cauchemar-continue-pour-le-havre-20261120",
   "excerpt": "L’Estac a disposé du Havre ce vendredi, lors du premier match de la 11e journée du championnat de France.",
@@ -7,24 +49,31 @@
   "source": "Le Figaro Sport"
  },
  {
-  "title": "Ligue 1 : Tanguy Nianzou, le pari gagnant du LOSC après des années de blessures",
-  "link": "https://www.lefigaro.fr/sports/football/ligue-1/ligue-1-tanguy-nianzou-le-pari-gagnang-du-losc-apres-des-annees-de-blessures-20261120",
-  "excerpt": "Longtemps freiné par les blessures au Bayern Munich puis au FC Séville, Tanguy Nianzou retrouve enfin de la continuité sous les couleurs lilloises.",
-  "date": "2026-11-20T22:27:50+01:00",
-  "source": "Le Figaro Sport"
+  "title": "Oyonnax, nouveau leader",
+  "link": "https://www.sports.fr/rugby/pro-d2/oyonnax-nouveau-leader-2-1064726.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
+  "excerpt": "Dans l'un des chocs de cette 11e journée de Pro D2, Oyonnax s'est imposé à domicile face à Brive (32-22). Le club de l'Ain en profite pour déloger Provence, battu la veille, de la première place du…",
+  "date": "2026-11-20T22:34:04+00:00",
+  "source": "Sports.fr"
+ },
+ {
+  "title": "Bayern Munich: Harry Kane, grave blessure confirmée",
+  "link": "https://www.sports.fr/football/bayern-munich-harry-kane-la-grave-blessure-est-confirmee-1064725.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
+  "excerpt": "Touché à la cheville contre Cologne, ce vendredi soir, Harry Kane sera absent plusieurs mois.",
+  "date": "2026-11-20T22:30:00+00:00",
+  "source": "Sports.fr"
+ },
+ {
+  "title": "Bayern: la tuile est confirmée pour Kane, gravement blessé à la cheville et absent plusieurs mois",
+  "link": "https://rmcsport.bfmtv.com/football/bundesliga/bayern-la-tuile-est-confirmee-pour-kane-gravement-blesse-a-la-cheville-et-absent-plusieurs-mois_AV-202611200965.html",
+  "excerpt": "Sorti sur blessure ce vendredi face à Cologne, Harry Kane souffre d'une rupture du ligament de la syndesmose au niveau de la cheville, a annoncé le directeur sportif du Bayern Munich Max Eberl. Les…",
+  "date": "2026-11-20T22:22:36+00:00",
+  "source": "RMC Sport"
  },
  {
   "title": "Tennis : Medvedev complète le tableau s’invite en demies du Masters ATP",
   "link": "https://www.lefigaro.fr/sports/tennis/tennis-medvedev-complete-le-tableau-s-invite-en-demies-du-masters-atp-20261120",
   "excerpt": "Cinquième joueur mondial, le Russe a composté son billet pour le dernier carré en battant l’Américain Frances Tiafoe ce vendredi, à Turin.",
   "date": "2026-11-20T22:21:59+01:00",
-  "source": "Le Figaro Sport"
- },
- {
-  "title": "Bundesliga : avant Lille-Bayern, le Ballon d’or Harry Kane et le meneur des Bleus Michael Olise sortent sur blessure",
-  "link": "https://www.lefigaro.fr/sports/football/allemagne/bundesliga-avant-lille-bayern-le-ballon-d-or-harry-kane-sort-sur-blessure-20261120",
-  "excerpt": "L’attaquant international anglais (127 sélections, 93 buts) et le meneur international tricolore (31 sél., 12 buts) ont été touchés ce vendredi, à l’Allianz Arena, contre Cologne.",
-  "date": "2026-11-20T22:14:32+01:00",
   "source": "Le Figaro Sport"
  },
  {
@@ -53,13 +102,6 @@
   "link": "https://www.lefigaro.fr/sports/tennis/tennis-l-ancien-numero-1-mondial-jimmy-connors-evoque-son-combat-contre-le-cancer-20261120",
   "excerpt": "L’ancienne star américaine des courts de tennis a révélé, dans un podcast avec son fils, être atteint par un cancer.",
   "date": "2026-11-20T21:58:03+01:00",
-  "source": "Le Figaro Sport"
- },
- {
-  "title": "Ligue 2 : Nancy à hauteur des Verts, Guingamp déçoit encore",
-  "link": "https://www.lefigaro.fr/sports/football/ligue-2-nancy-a-hauteur-des-verts-guingamp-decoit-encore-20261120",
-  "excerpt": "Annecy, Rodez, Metz et Nancy l’ont emporté ce vendredi, lors de la première partie de la 13e journée de Ligue 2.",
-  "date": "2026-11-20T21:57:59+01:00",
   "source": "Le Figaro Sport"
  },
  {
@@ -96,6 +138,13 @@
   "excerpt": "Premier signataire de la convention départementale de lutte contre les violences dans le sport, le district de la Gironde s’appuie sur un circuit direct avec les autorités judiciaires.",
   "date": "2026-11-20T21:37:33+01:00",
   "source": "Le Figaro Sport"
+ },
+ {
+  "title": "Le stade Bauer plongé dans le noir: le match Red Star-Pau interrompu à cause d’un problème d’éclairage",
+  "link": "https://rmcsport.bfmtv.com/football/ligue-2/le-stade-bauer-plonge-dans-le-noir-le-match-red-star-pau-interrompu-a-cause-d-un-probleme-d-eclairage_AN-202611200939.html",
+  "excerpt": "Le match de la 13e journée de Ligue 2 entre le Red Star et Pau a été interrompu pendant une vingtaine de minutes en seconde période après un problème d’éclairage qui a plongé le stade Bauer dans le…",
+  "date": "2026-11-20T21:30:21+00:00",
+  "source": "RMC Sport"
  },
  {
   "title": "Le Bayern Munich perd Kane et Olise avant d’affronter Lille",
@@ -168,7 +217,7 @@
   "source": "Sports.fr"
  },
  {
-  "title": "Coup dur pour le Bayern: Kane sort sur blessure avant d'affronter Lille en Ligue des champions",
+  "title": "Coup dur pour le Bayern: Kane et Olise sortent sur blessure avant d'affronter Lille en Ligue des champions",
   "link": "https://rmcsport.bfmtv.com/football/bundesliga/coup-dur-pour-le-bayern-kane-sort-sur-blessure-avant-d-affronter-lille-en-ligue-des-champions_AV-202611200903.html",
   "excerpt": "Ce vendredi lors de la 10e journée de Bundesliga, Harry Kane a été contraint de sortir sur blessure, touché à la cheville, face à Cologne. Un coup dur pour le Bayern, qui se déplace à Lille mercredi…",
   "date": "2026-11-20T20:19:55+00:00",
@@ -322,9 +371,9 @@
   "source": "Sports.fr"
  },
  {
-  "title": "DIRECT. Troyes-Le Havre: suivez le match d'ouverture de la 11e journée de Ligue 1",
+  "title": "Troyes-Le Havre: les Troyens enfoncent les Normands et sortent provisoirement de la zone rouge",
   "link": "https://rmcsport.bfmtv.com/football/ligue-1/direct-troyes-le-havre-suivez-le-match-d-ouverture-de-la-11e-journee-de-ligue-1_LS-202611200719.html",
-  "excerpt": "Après la trêve internationale, place au championnat avec le coup d'envoi de la 11e journée de Ligue 1 ce vendredi soir. Au programme un match du bas de tableau entre l'avant-dernier du classement…",
+  "excerpt": "Pour sa grande première sur le banc du Havre (18e), Valérien Ismaël a eu un aperçu de l'immense chantier qui l'attend. Malgré une ouverture du score rapide de Josh Maja (3e), les Normands ont coulé…",
   "date": "2026-11-20T17:30:00+00:00",
   "source": "RMC Sport"
  },
@@ -2597,7 +2646,7 @@
   "source": "franceinfo Sports"
  },
  {
-  "title": "DIRECT. Philippe Diallo candidat à la présidence de la Fifa face à Infantino: la Conmebol confirme son soutien pour Infantino",
+  "title": "DIRECT. Philippe Diallo candidat à la présidence de la Fifa face à Infantino: la Conmebol et l'UAFA ont choisi leur camp",
   "link": "https://rmcsport.bfmtv.com/football/direct-philippe-diallo-candidat-a-la-presidence-de-la-fifa-face-a-infantino-toutes-les-infos-et-reactions-en-live_LN-202611160689.html",
   "excerpt": "Président de la Fédération française de football, Philippe Diallo a été désigné par l'UEFA ce lundi comme candidat à la présidence de la Fifa. Le patron de la FFF fera face au sortant Gianni…",
   "date": "2026-11-16T16:57:36+00:00",
