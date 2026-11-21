@@ -1,9 +1,44 @@
 [
  {
-  "title": "EN DIRECT - Championnat des nations : l’Angleterre prend le dessus sur les All Blacks",
+  "title": "EN DIRECT - Championnat des nations : l’Angleterre donne une leçon aux All Blacks",
   "link": "https://www.lefigaro.fr/sports/rugby/live/championnat-des-nations/2026/949594/angleterre-nouvelle-zelande",
-  "excerpt": "L’Angleterre est deuxième de la poule Nord, un point derrière la France, avant d’accueillir les All Blacks, leaders de la poule Sud (15h10) lors de la 6e et dernière journée.",
-  "date": "2026-11-21T15:50:37+01:00",
+  "excerpt": "L’Angleterre mène la danse à la pause face à des All Blacks en difficulté. Deuxièmes de la poule Nord, à un point des Bleus, les Anglais accueillent les leaders de la poule Sud (15h10) pour clore la…",
+  "date": "2026-11-21T16:47:02+01:00",
+  "source": "Le Figaro Sport"
+ },
+ {
+  "title": "Carlos Alcaraz lâche un set mais se qualifie pour la finale du Masters de Turin, après un gros combat face à Ben Shelton",
+  "link": "https://www.franceinfo.fr/sports/tennis/masters/carlos-alcaraz-lache-un-set-mais-se-qualifie-pour-la-finale-du-masters-de-turin-apres-un-gros-combat-face-a-ben-shelton_8293823.html#xtor=RSS-3-%5Bsports%5D",
+  "excerpt": "Passé à côté de la première manche, l'Espagnol a réussi à inverser la tendance face à l'Américain. Trois sets et un tie-break ont été nécessaires pour les départager, samedi.",
+  "date": "2026-11-21T16:45:06+01:00",
+  "source": "franceinfo Sports"
+ },
+ {
+  "title": "MotoGP : Bezzecchi s’adjuge le sprint du GP du Portugal, chute de Marquez",
+  "link": "https://www.lefigaro.fr/sports/moto/motogp-bezzecchi-s-adjuge-le-sprint-du-gp-du-portugal-chute-de-marquez-20261121",
+  "excerpt": "Le pilote talien Marc Bezzecchi (Aprilia) a remporté samedi la course sprint du Grand Prix du Portugal, son rival espagnol Marc Marquez (Ducati) ayant chuté dans les derniers tours et manqué ainsi…",
+  "date": "2026-11-21T16:29:32+01:00",
+  "source": "Le Figaro Sport"
+ },
+ {
+  "title": "Rugby : désormais plus de 130.000 inscrits pour le visionnage d’Irlande-Afrique du Sud de Rassie Erasmus",
+  "link": "https://www.lefigaro.fr/sports/rugby/rugby-desormais-plus-de-130-000-inscrits-pour-le-visionnage-d-irlande-afrique-du-sud-en-compagnie-du-selectionneur-des-springboks-20261121",
+  "excerpt": "Suspendu après ses critiques sur l’arbitrage, Rassie Erasmus avait invité les supporters de suivre le choc contre le XV du Trèfle (17h40) en visio avec lui.",
+  "date": "2026-11-21T16:14:41+01:00",
+  "source": "Le Figaro Sport"
+ },
+ {
+  "title": "Ligue 2 : Montpellier chute à nouveau",
+  "link": "https://www.lefigaro.fr/sports/football/ligue-2-montpellier-chute-a-nouveau-20261121",
+  "excerpt": "Montpellier, troisième de Ligue 2, a concédé une seconde défaite d’affilée, sur le terrain de Laval (1-0) qui quitte la zone de relégation, samedi à l’occasion de la 13e journée.",
+  "date": "2026-11-21T16:10:54+01:00",
+  "source": "Le Figaro Sport"
+ },
+ {
+  "title": "Premier League : Manchester City accroché par Fulham",
+  "link": "https://www.lefigaro.fr/sports/football/angleterre/premier-league-manchester-city-accroche-par-fulham-20261121",
+  "excerpt": "Après trois défaites de suite en Premier League, Manchester City a stoppé l’hémorragie, mais sans parvenir à s’imposer face à Fulham (1-1), samedi en ouverture de la 11e journée.",
+  "date": "2026-11-21T16:05:44+01:00",
   "source": "Le Figaro Sport"
  },
  {
@@ -28,11 +63,25 @@
   "source": "Le Figaro Sport"
  },
  {
+  "title": "GP du Portugal: Bezzecchi retarde l’échéance",
+  "link": "https://www.sports.fr/auto-moto/moto/gp-du-portugal-bezzecchi-retarde-lecheance-1064847.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
+  "excerpt": "Marco Bezzecchi a écrasé la concurrence pour remporter au Portugal sa première course sprint de la saison. L’Italien devance Raul Fernandez et Alex Marquez. Longtemps en position d’être sacré…",
+  "date": "2026-11-21T15:27:53+00:00",
+  "source": "Sports.fr"
+ },
+ {
   "title": "La Confédération africaine de football reste unie derrière Gianni Infantino dans la course à la présidence de la Fifa, sous les yeux de Philippe Diallo",
   "link": "https://www.franceinfo.fr/sports/foot/giovanni-infantino/la-confederation-africaine-de-football-reste-unie-derriere-gianni-infantino-dans-la-course-a-la-presidence-de-la-fifa-sous-les-yeux-de-philippe-diallo_8293775.html#xtor=RSS-3-%5Bsports%5D",
   "excerpt": "La CAF a assuré samedi de son soutien total, \"à l'unanimité\", à l'actuel président de la Fifa, Gianni Infantino, candidat à sa réélection en mars prochain.",
   "date": "2026-11-21T15:26:41+01:00",
   "source": "franceinfo Sports"
+ },
+ {
+  "title": "Grand changement pour la Betclic Elite ?",
+  "link": "https://www.sports.fr/basket/grand-changement-pour-la-betclic-elite-1064835.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
+  "excerpt": "Afin de répondre aux contraintes pesant sur le calendrier de la saison 2027-2028, la LNB pourrait remodeler profondément le format des play-offs de Betclic Elite. La mise en place d’un Final Four…",
+  "date": "2026-11-21T15:05:39+00:00",
+  "source": "Sports.fr"
  },
  {
   "title": "William Gomis libéré par l'UFC malgré un bilan positif",
@@ -70,6 +119,13 @@
   "source": "Le Figaro Sport"
  },
  {
+  "title": "BJK Cup: La France battue d’entrée",
+  "link": "https://www.sports.fr/tennis/bjk-cup-la-france-battue-dentree-1064837.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
+  "excerpt": "L'Australie mène 1-0 face à la France en barrages de BJK Cup sur la terre battue indoor du Portel, après la facile victoire de Talia Gibson sur Clara Burel, qui n'a gagné que trois jeux.",
+  "date": "2026-11-21T14:23:54+00:00",
+  "source": "Sports.fr"
+ },
+ {
   "title": "Slalom: Grande première pour Colturi, Chevrier 11e",
   "link": "https://www.sports.fr/ski/slalom-grande-premiere-pour-colturi-chevrier-11e-1064829.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
   "excerpt": "L'Albanaise de 20 ans Lara Colturi a décroché sa première victoire en Coupe du Monde, lors du slalom de Gurgl, en devançant les Suédoises Sara Hector et Anna Swenn Larsson. Première Française, Marion…",
@@ -81,13 +137,6 @@
   "link": "https://www.lefigaro.fr/sports/formule-1/formule-1-quelqu-un-doit-tenir-tete-a-ce-type-george-russell-tacle-max-verstappen-apres-leur-accrochage-en-piste-a-las-vegas-20261121",
   "excerpt": "Après une situation tendue en piste avec Max Verstappen pendant les essais libres, George Russell n’a pas dissimulé son irritation et a sévèrement critiqué l’attitude du pilote Red Bull.",
   "date": "2026-11-21T14:05:32+01:00",
-  "source": "Le Figaro Sport"
- },
- {
-  "title": "Rugby : désormais plus de 130.000 inscrits pour le visionnage d’Irlande-Afrique du Sud de Rassie Erasmus",
-  "link": "https://www.lefigaro.fr/sports/rugby/rugby-desormais-plus-de-130-000-inscrits-pour-le-visionnage-d-irlande-afrique-du-sud-en-compagnie-du-selectionneur-des-springboks-20261121",
-  "excerpt": "Suspendu après ses critiques sur l’arbitrage, Rassie Erasmus avait invité les supporters de suivre le choc contre le XV du Trèfle (17h40) en visio avec lui.",
-  "date": "2026-11-21T14:01:47+01:00",
   "source": "Le Figaro Sport"
  },
  {
@@ -2749,54 +2798,5 @@
   "excerpt": "Arthur Fils aborde l'un des matchs les plus importants de sa carrière ce jeudi avec un choc face au n°1 mondial Alexander Zverev qui pourrait lui ouvrir les portes des demi-finales des ATP Finals. À…",
   "date": "2026-11-19T10:42:26+00:00",
   "source": "RMC Sport"
- },
- {
-  "title": "Championnat des nations: France-Argentine, c’est officiel pour Louis Bielle-Biarrey",
-  "link": "https://www.sports.fr/rugby/championnat-des-nations-france-argentine-cest-officiel-pour-louis-bielle-biarrey-1064240.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
-  "excerpt": "Fabien Galthié a dévoilé ce jeudi sa composition d'équipe pour le match contre l'Argentine samedi au Stade de France. Louis Bielle-Biarrey et François Cros, absents de l'entraînement mercredi, seront…",
-  "date": "2026-11-19T10:39:08+00:00",
-  "source": "Sports.fr"
- },
- {
-  "title": "Présidentielle 2027: Teddy Riner, la photo qui ne passe pas",
-  "link": "https://www.sports.fr/combat/judo/presidentielle-2027-teddy-riner-la-photo-qui-ne-passe-pas-1064239.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
-  "excerpt": "Candidat à l'élection présidentielle de 2027, Teddy Riner a choisi de poser en une d'un magazine. La photo choisie a fait réagir.",
-  "date": "2026-11-19T10:30:33+00:00",
-  "source": "Sports.fr"
- },
- {
-  "title": "ATP Finals: Arthur Fils qualifié en demi-finales si...",
-  "link": "https://rmcsport.bfmtv.com/tennis/atp/masters-atp-arthur-fils-qualifie-en-demi-finales-si_AV-202611190461.html",
-  "excerpt": "La calculette pourrait bien être indispensable pour suivre l’ultime journée de la poule McEnroe aux ATP Finals ce jeudi. Avec une victoire et une défaite, Arthur Fils a toujours son destin entre les…",
-  "date": "2026-11-19T10:22:39+00:00",
-  "source": "RMC Sport"
- },
- {
-  "title": "Lens: revivez la présentation de Digard comme entraîneur des Sang et Or",
-  "link": "https://rmcsport.bfmtv.com/football/clubs/rc-lens/direct-lens-suivez-en-live-la-premiere-conference-de-presse-de-didier-digard-avant-la-reception-de-toulouse_LN-202611190460.html",
-  "excerpt": "Nouvel entraîneur du RC Lens, Didier Digard va diriger son premier match à la tête des Sang et Or ce samedi avec la réception de Toulouse (20h45), pour le compte de la 11e journée de Ligue 1. Ce…",
-  "date": "2026-11-19T10:19:06+00:00",
-  "source": "RMC Sport"
- },
- {
-  "title": "France-Argentine: la composition des Bleus pour le match de Championnat des nations, avec Matthieu Jalibert et Louis Bielle-Biarrey",
-  "link": "https://rmcsport.bfmtv.com/rugby/xv-de-france/france-argentine-la-composition-des-bleus-pour-le-match-de-championnat-des-nations-avec-matthieu-jalibert-et-louis-bielle-biarrey_AV-202611190450.html",
-  "excerpt": "Fabien Galthié, sélectionneur du XV de France, a dévoilé ce jeudi la composition de l'équipe face à l'Argentine, samedi (21h10) au Stade de France. Comme attendu, Matthieu Jalibert fait son retour à…",
-  "date": "2026-11-19T10:07:00+00:00",
-  "source": "RMC Sport"
- },
- {
-  "title": "Jordan Zebo - Baki : comment regarder le main event de l'ARES 45 en streaming et en direct ?",
-  "link": "https://rmcsport.bfmtv.com/sports-de-combat/mma/jordan-zebo-baki-comment-regarder-le-main-event-de-l-ares-45-en-streaming-et-en-direct_AN-202611190414.html",
-  "excerpt": "C’est le choc franco-français que tout le MMA attendait ! Plus d’un an après leur premier affrontement à Strasbourg, Jordan Zebo et Baki se retrouvent dans la cage pour un nouveau duel explosif…",
-  "date": "2026-11-19T10:00:00+00:00",
-  "source": "RMC Sport"
- },
- {
-  "title": "La Kényane Peres Jepchirchir, championne du monde du marathon, suspendue trois ans pour dopage à l'EPO",
-  "link": "https://www.franceinfo.fr/sports/athletisme/la-kenyane-peres-jepchirchir-championne-du-monde-du-marathon-suspendue-trois-ans-pour-dopage-a-l-epo_8289608.html#xtor=RSS-3-%5Bsports%5D",
-  "excerpt": "La championne olympique à Tokyo en 2021, et récente vainqueure du marathon de Sydney cet été, a reconnu les faits, jeudi, a annoncé l'Unité d'intégrité de l'athlétisme (AIU).",
-  "date": "2026-11-19T09:56:53+01:00",
-  "source": "franceinfo Sports"
  }
 ]
