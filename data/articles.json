@@ -1,9 +1,30 @@
 [
  {
-  "title": "EN DIRECT - Marseille-Le Mans : l’OM déroule face au promu",
+  "title": "Marseille-Le Mans : revivez la victoire du promu, qui renverse l’OM au Vélodrome",
   "link": "https://www.lefigaro.fr/sports/football/live/ligue-1/2026/2640652/marseille-le-mans",
-  "excerpt": "L’Olympique de Marseille accueille Le Mans au Stade Vélodrome en clôture de la 11e journée (20h45) et vise une sixième victoire consécutive en championnat.",
-  "date": "2026-11-22T21:36:02+01:00",
+  "excerpt": "Mené de deux buts, Le Mans a réalisé une remontée spectaculaire face à l’Olympique de Marseille (2-3), ce dimanche soir au Stade Vélodrome, en clôture de la 11e journée.",
+  "date": "2026-11-22T22:48:03+01:00",
+  "source": "Le Figaro Sport"
+ },
+ {
+  "title": "Ligue 1 : giflé au Vélodrome par Le Mans, Marseille rate l’occasion de grimper sur le podium",
+  "link": "https://www.lefigaro.fr/sports/football/ligue-1/ligue-1-gifle-au-velodrome-par-le-mans-marseille-rate-l-occasion-de-grimper-sur-le-podium-20261122",
+  "excerpt": "Après avoir inscrit deux buts en première période, l’OM a cédé au retour des vestiaires (2-3) et vu sa série de cinq victoires stoppée.",
+  "date": "2026-11-22T22:43:48+01:00",
+  "source": "Le Figaro Sport"
+ },
+ {
+  "title": "Tennis : «Cette année a été atypique mais très belle», confie Alcaraz après son sacre au Masters",
+  "link": "https://www.lefigaro.fr/sports/tennis/tennis-cette-annee-a-ete-atypique-mais-tres-belle-confie-alcaraz-apres-son-sacre-au-masters-20261122",
+  "excerpt": "L’Espagnol Carlos Alcaraz, vainqueur dimanche à Turin du Masters ATP, a expliqué qu’en 2026, la première saison sans son entraîneur emblématique Juan Carlos Ferrero, il a «beaucoup appris».",
+  "date": "2026-11-22T22:13:37+01:00",
+  "source": "Le Figaro Sport"
+ },
+ {
+  "title": "Basket : Bourg-en-Bresse enfonce l'Asvel, qui voit le Paris Basketball s’envoler",
+  "link": "https://www.lefigaro.fr/sports/basket/basket-bourg-en-bresse-enfonce-l-asvel-qui-voit-le-paris-basketball-s-envoler-20261122",
+  "excerpt": "Les Villeurbannais, qui ont été battus pour la deuxième fois de suite en championnat, pointent désormais trois victoires derrière les Parisiens.",
+  "date": "2026-11-22T21:54:07+01:00",
   "source": "Le Figaro Sport"
  },
  {
@@ -14,11 +35,32 @@
   "source": "Le Figaro Sport"
  },
  {
+  "title": "\"Dites que je suis allé sur la Lune ça sera mieux\": Nicolas Pépé opéré des yeux à cause de l'éclipse solaire?",
+  "link": "https://rmcsport.bfmtv.com/football/dites-que-je-suis-alle-sur-la-lune-ca-sera-mieux-nicolas-pepe-opere-des-yeux-a-cause-de-l-eclipse-solaire_AV-202611220436.html",
+  "excerpt": "Absent pendant cinq matchs en octobre, Nicolas Pépé a subi une opération des yeux. Selon certains médias, cela aurait été à cause de l'éclipse solaire. Son club de Villarreal a démenti, assurant que…",
+  "date": "2026-11-22T21:27:29+00:00",
+  "source": "RMC Sport"
+ },
+ {
   "title": "Ligue 1 : Haise déplore le manque de spontanéité de Rennes après le nul décroché à Lorient",
   "link": "https://www.lefigaro.fr/sports/football/ligue-1/ligue-1-haise-deplore-le-manque-de-spontaneite-de-rennes-apres-le-nul-decroche-a-lorient-20261122",
   "excerpt": "Dominateur en première période mais passé près de la correctionnelle en seconde, Rennes n’a pu faire mieux qu’un nul 1-1 à Lorient, dimanche lors de la 11e journée de Ligue 1.",
   "date": "2026-11-22T21:13:32+01:00",
   "source": "Le Figaro Sport"
+ },
+ {
+  "title": "\"Beaucoup de choses que je ne pouvais pas accepter\": De Zerbi vide son sac et pointe les raisons de son échec à l’OM",
+  "link": "https://rmcsport.bfmtv.com/football/ligue-1/beaucoup-de-choses-que-je-ne-pouvais-pas-accepter-de-zerbi-vide-son-sac-et-pointe-les-raisons-de-son-echec-a-l-om_AV-202611220428.html",
+  "excerpt": "Neuf mois après son départ, Roberto De Zerbi n’a pas digéré son aventure écourtée à l’OM. Le coach italien, désormais à Tottenham, estime ne pas avoir été mis dans les meilleures conditions pour…",
+  "date": "2026-11-22T21:01:35+00:00",
+  "source": "RMC Sport"
+ },
+ {
+  "title": "Biathlon: \"Les coachs me disaient de faire attention à ne pas reprendre trop tôt\", Jeamonnot justifie sa pause nécessaire après la saison olympique",
+  "link": "https://rmcsport.bfmtv.com/sports-d-hiver/biathlon/biathlon-les-coachs-me-disaient-de-faire-attention-a-ne-pas-reprendre-trop-tot-jeamonnot-justifie-sa-pause-necessaire-apres-la-saison-olympique_AV-202611220423.html",
+  "excerpt": "À cinq jours du début de la Coupe du monde de biathlon, la tenante du titre Lou Jeanmonnot s'est confiée sur sa longue pause nécessaire après un hiver 2025-2026 prolifique, qui l'a vu triompher au…",
+  "date": "2026-11-22T20:53:13+00:00",
+  "source": "RMC Sport"
  },
  {
   "title": "Tennis : Alcaraz fait plier Zverev et remporte son premier Masters ATP",
@@ -217,9 +259,9 @@
   "source": "RMC Sport"
  },
  {
-  "title": "DIRECT. OM-Le Mans: Paixao fait le break avant la pause, suivez le dernier match de la 11e journée de Ligue 1 en live",
+  "title": "OM-Le Mans: scénario renversant au Vélodrome, fin de l'euphorie pour les Marseillais",
   "link": "https://rmcsport.bfmtv.com/football/ligue-1/direct-om-le-mans-marseille-vise-le-podium-suivez-le-dernier-match-de-la-11e-journee-de-ligue-1-en-live_LS-202611220354.html",
-  "excerpt": "L'OM vise une sixième victoire de suite en championnat ce dimanche, avec la réception du Mans en clôture de la 11e journée de Ligue 1. Marseille-Le Mans, coup d'envoi à 20h45 au Vélodrome, à suivre…",
+  "excerpt": "Marseille, après cinq victoires consécutives en Ligue 1, a subi un gros coup d'arrêt en concédant la défaite 3-2 face au Mans, dimanche soir au Vélodrome en clôture de la 11e journée, alors que le…",
   "date": "2026-11-22T17:18:04+00:00",
   "source": "RMC Sport"
  },
@@ -2756,47 +2798,5 @@
   "excerpt": "Le sélectionneur des Bleus a réagi au tirage au sort qui a désigné l’Espagne comme adversaire en quart de finale. Un choc brûlant.",
   "date": "2026-11-20T15:36:29+01:00",
   "source": "Le Figaro Sport"
- },
- {
-  "title": "France-Argentine: la douche froide après l'exploit? Comment les Bleus comptent empêcher tout relâchement contre les Pumas",
-  "link": "https://rmcsport.bfmtv.com/rugby/xv-de-france/france-argentine-la-douche-froide-apres-l-exploit-comment-les-bleus-comptent-empecher-tout-relachement-contre-les-pumas_AV-202611200676.html",
-  "excerpt": "Les Bleus affrontent l’Argentine samedi soir (21h10) au Stade de France avec l’ambition de terminer premiers de la poule de l’hémisphère nord. Une victoire bonifiée leur ouvrirait les portes de la…",
-  "date": "2026-11-20T15:34:30+00:00",
-  "source": "RMC Sport"
- },
- {
-  "title": "Masters : Alcaraz lamine Cobolli et donne rendez-vous à Shelton en demies",
-  "link": "https://www.lefigaro.fr/sports/tennis/masters-alcaraz-lamine-cobolli-et-donne-rendez-vous-a-shelton-en-demies-20261120",
-  "excerpt": "Vainqueur en deux manches (6-4, 6-1) de l’Italien, l’Espagnol affrontera l’Américain pour une place en finale.",
-  "date": "2026-11-20T15:32:32+01:00",
-  "source": "Le Figaro Sport"
- },
- {
-  "title": "Masters: Carlos Alcaraz gagne encore (et rassure)",
-  "link": "https://www.sports.fr/tennis/atp/masters-alcaraz-gagne-encore-et-rassure-1064602.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
-  "excerpt": "Deux semaines après l'avoir dominé en finale à Paris, Carlos Alcaraz retrouvera Ben Shelton, samedi à Turin en demi-finales du Masters. Toujours dans l'incertitude en ce qui concerne l'évolution de…",
-  "date": "2026-11-20T15:25:24+00:00",
-  "source": "Sports.fr"
- },
- {
-  "title": "ATP: Les tournois de Doha et Dubaï dans l’incertitude",
-  "link": "https://www.sports.fr/tennis/atp-les-tournois-de-doha-et-dubai-dans-lincertitude-1064597.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
-  "excerpt": "Lors d'une conférence de presse, le président de l'ATP Andrea Gaudenzi a reconnu qu'il suivait de près la situation géo-politique au Moyen Orient, où se dérouleront les tournois de Doha et Dubaï en…",
-  "date": "2026-11-20T15:24:01+00:00",
-  "source": "Sports.fr"
- },
- {
-  "title": "Cinéma, quincaillerie... La notoriété parfois embarassante de Jeffrey de Lange à Marseille",
-  "link": "https://rmcsport.bfmtv.com/football/clubs/olympique-marseille/cinema-quincaillerie-la-notoriete-parfois-embarassante-de-jeffrey-de-lange-a-marseille_AV-202611200668.html",
-  "excerpt": "Depuis son arrivée à Marseille durant l'été 2024, Jeffrey De Lange a révélé avoir été choqué par la passion des supporters de l'OM qui le reconnaissaient dans les rues de la cité phocéenne. Après…",
-  "date": "2026-11-20T15:20:06+00:00",
-  "source": "RMC Sport"
- },
- {
-  "title": "Tennis: cet énorme jackpot que vont se partager les meilleurs joueurs du monde à partir de 2028",
-  "link": "https://rmcsport.bfmtv.com/tennis/tennis-cet-enorme-jackpot-que-vont-se-partager-les-meilleurs-joueurs-du-monde-a-partir-de-2028_AV-202611200663.html",
-  "excerpt": "Les joueurs du circuit ATP se répartiront plus de 320 millions d'euros en gains et primes à partir de 2028, sans compter les Grands Chelems. Un investissement sans précédent.",
-  "date": "2026-11-20T15:09:02+00:00",
-  "source": "RMC Sport"
  }
 ]
